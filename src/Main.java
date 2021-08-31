@@ -10,4 +10,7 @@ public class Main {
     public static void sayHi() {
         System.out.println("Hi");
     }
+    
+    public void stuff() {}
+    
 }
